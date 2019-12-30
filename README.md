@@ -2,6 +2,8 @@
 
 Use this device to control [Mutable Instrument](https://mutable-instruments.net/)'s module [Plaits](https://mutable-instruments.net/modules/plaits/) 'Model' parameter.
 
+![ScreenShot](screen.jpg)
+
 Requires Ableton Live, Max For Live, Plaits and a MIDI to CV interface to operate.
 
 Connect your interface to your computer, either via MIDI or USB. Connect an output of your interface to Plaits 'Model' CV input. Set Plaits 'Model' to the first top green one, using the top left button to scroll through the list.
