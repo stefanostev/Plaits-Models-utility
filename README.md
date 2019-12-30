@@ -1,6 +1,6 @@
 # Plaits Models utility
 
-Use this device to control [Mutable Instrument](https://mutable-instruments.net/)'s module [Plaits](https://mutable-instruments.net/modules/plaits/) 'Model' parameter.
+Use this device to control [Mutable Instrument](https://mutable-instruments.net/)'s module [Plaits](https://mutable-instruments.net/modules/plaits/) 'Model' parameter. <br>
 Requires Ableton Live, Max For Live, Plaits and a MIDI to CV interface to operate.
 
 <img src="https://github.com/stefanostev/Plaits-Models-utility/blob/master/screen.jpg" width="500">
