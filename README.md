@@ -10,6 +10,5 @@ Connect your interface to your computer, either via MIDI or USB. Connect an outp
 In Ableton, select your MIDI Interface as `output device` on the MIDI track you've loaded the device into. Use the `MIDI/CV` number to select the output from which your interface is sending out the CV signal. Use the `MIDI Channel` number to configure the MIDI Channel your output is set. You can set the same channel in Ableton's track as well.
 
 You can now scroll through the different models using both the dropdown menu or the mappable knob.
-
 #
 Models' logos adapted from original design by Mutable Instruments released under Open Hardware cc-by-sa-3.0 license
